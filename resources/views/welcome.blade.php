@@ -17,7 +17,7 @@
 
         <div class="content">
             <div class="title m-b-md">
-                <h1 class="text-center">Welcome to Simple Attendance System</h5>
+                <h1 class="text-center">Welcome Employee Attendance System</h5>
                 <div class="clockStyle" id="clock">123</div>
             </div>
 

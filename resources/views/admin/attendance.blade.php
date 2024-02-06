@@ -33,7 +33,7 @@
                             <table id="datatable-buttons" class="table table-hover table-striped table-bordered dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
                                         
                             <thead class="thead-dark">
-							<!-- Log on to codeastro.com for more projects! -->
+							
                                     <tr>
                                         <th data-priority="1">Date</th>
                                         <th data-priority="2">EmpID</th>
@@ -74,7 +74,7 @@
                         </div>
                     </div>
                 </div>
-            </div><!-- Log on to codeastro.com for more projects! -->
+            </div>
         </div> <!-- end col -->
     </div> <!-- end row -->
 
@@ -83,7 +83,7 @@
 
 @section('script')
     <!-- Responsive-table-->
-	<!-- Log on to codeastro.com for more projects! -->
+	
     <script src="{{ URL::asset('plugins/RWD-Table-Patterns/dist/js/rwd-table.min.js') }}"></script>
  
 @endsection

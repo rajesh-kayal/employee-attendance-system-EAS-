@@ -2,7 +2,7 @@
 <div class="modal fade" id="addnew">
     <div class="modal-dialog">
         <div class="modal-content">
-			<!-- Log on to codeastro.com for more projects! -->
+			
         
             <div class="modal-header">
             <h5 class="modal-title"><b>Add New Employee</b></h5>
@@ -13,7 +13,7 @@
 
             
             <div class="modal-body">
-			<!-- Log on to codeastro.com for more projects! -->
+			
 
                 <div class="card-body text-left">
 
@@ -31,7 +31,7 @@
                         </div>
 
                         
-                        <div class="form-group"><!-- Log on to codeastro.com for more projects! -->
+                        <div class="form-group">
                             <label for="email" class="col-sm-3 control-label">Email</label>
 
 
@@ -67,7 +67,7 @@
 
                 </div>
             </div>
-			<!-- Log on to codeastro.com for more projects! -->
+			
 
         </div>
 

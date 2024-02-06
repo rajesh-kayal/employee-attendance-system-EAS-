@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="container">
-	<!-- Log on to codeastro.com for more projects! -->
+	
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
@@ -39,7 +39,7 @@
                                 @enderror
                             </div>
                         </div>
-						<!-- Log on to codeastro.com for more projects! -->
+						
                         <div class="form-group row">
                             <label for="password" class="col-md-4 col-form-label text-md-right">{{ __('Password') }}</label>
 

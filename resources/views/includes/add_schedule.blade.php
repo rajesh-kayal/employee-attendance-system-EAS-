@@ -8,7 +8,7 @@
                     <span aria-hidden="true">&times;</span></button>
               
             </div>
-            <!-- Log on to codeastro.com for more projects! -->
+            
             <div class="modal-body text-left">
                 <form class="form-horizontal" method="POST" action="{{ route('schedule.store') }}">
                     @csrf
@@ -19,7 +19,7 @@
                             <div class="bootstrap-timepicker">
                                 <input type="text" placeholder="Enter a Schedule name [hypen accepted]" class="form-control timepicker" id="name" name="slug">
                             </div>
-                        <!-- Log on to codeastro.com for more projects! -->
+                        
                     </div>
                     <div class="form-group">
                         <label for="time_in" class="col-sm-3 control-label">Time In</label>
@@ -37,7 +37,7 @@
                             <div class="bootstrap-timepicker">
                                 <input type="time" class="form-control timepicker" id="time_out" name="time_out" required>
                             </div>
-                        <!-- Log on to codeastro.com for more projects! -->
+                        
                     </div>
             </div>
             <div class="modal-footer">
